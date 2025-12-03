@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|d:\\courses\\dotnet\\repos\\ecommercemicroservices\\ecommerce.productapisolution\\productapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|d:\\courses\\dotnet\\repos\\ecommercemicroservices\\ecommerce.productapisolution\\productapi.infrastructure\\productapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\productapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|d:\\courses\\dotnet\\repos\\ecommercemicroservices\\ecommerce.productapisolution\\productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8944BA0E-A5E7-A44E-C02A-3F1368577666}|..\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|d:\\courses\\dotnet\\repos\\ecommercemicroservices\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary\\logs\\logexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|d:\\courses\\dotnet\\repos\\ecommercemicroservices\\ecommerce.productapisolution\\productapi.application\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|d:\\courses\\dotnet\\repos\\ecommercemicroservices\\ecommerce.productapisolution\\productapi.application\\productapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\productapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T03:04:39.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductApi.Infrastructure",
+              "DocumentMoniker": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+              "ToolTip": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+              "RelativeToolTip": "ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T03:03:51.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogExceptions.cs",
+              "DocumentMoniker": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary\\Logs\\LogExceptions.cs",
+              "RelativeDocumentMoniker": "..\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary\\Logs\\LogExceptions.cs",
+              "ToolTip": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary\\Logs\\LogExceptions.cs",
+              "RelativeToolTip": "..\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary\\Logs\\LogExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:42:48.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwHoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:17:18.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "ProductApi.Application\\Interfaces\\IProduct.cs",
+              "ToolTip": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
+              "RelativeToolTip": "ProductApi.Application\\Interfaces\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T02:15:34.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductApi.Application",
+              "DocumentMoniker": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
+              "RelativeDocumentMoniker": "ProductApi.Application\\ProductApi.Application.csproj",
+              "ToolTip": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
+              "RelativeToolTip": "ProductApi.Application\\ProductApi.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T02:15:05.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net10.0\ProductApi.Domain.deps.json
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net10.0\ProductApi.Domain.dll
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net10.0\ProductApi.Domain.pdb
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\ProductApi.Domain.AssemblyInfoInputs.cache
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\ProductApi.Domain.AssemblyInfo.cs
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\ProductApi.Domain.csproj.CoreCompileInputs.cache
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\ProductApi.Domain.dll
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\refint\ProductApi.Domain.dll
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\ProductApi.Domain.pdb
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\ref\ProductApi.Domain.dll

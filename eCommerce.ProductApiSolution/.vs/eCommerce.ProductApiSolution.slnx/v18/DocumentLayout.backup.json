@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|d:\\courses\\dotnet\\repos\\ecommercemicroservices\\ecommerce.productapisolution\\productapi.application\\dtos\\conversions\\productconversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\conversions\\productconversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|d:\\courses\\dotnet\\repos\\ecommercemicroservices\\ecommerce.productapisolution\\productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|d:\\courses\\dotnet\\repos\\ecommercemicroservices\\ecommerce.productapisolution\\productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|solutionrelative:productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductConversions.cs",
+              "DocumentMoniker": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversions\\ProductConversions.cs",
+              "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\Conversions\\ProductConversions.cs",
+              "ToolTip": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversions\\ProductConversions.cs*",
+              "RelativeToolTip": "ProductApi.Application\\DTOs\\Conversions\\ProductConversions.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:48:40.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "ProductApi.Application\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:44:30.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApi.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\Courses\\Dotnet\\repos\\eCommerceMicroservices\\eCommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductApi.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T01:42:32.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
