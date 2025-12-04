@@ -9,3 +9,4 @@ D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\Prod
 D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\refint\ProductApi.Domain.dll
 D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\ProductApi.Domain.pdb
 D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\ref\ProductApi.Domain.dll
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net10.0\ProductApi.Domain.sourcelink.json

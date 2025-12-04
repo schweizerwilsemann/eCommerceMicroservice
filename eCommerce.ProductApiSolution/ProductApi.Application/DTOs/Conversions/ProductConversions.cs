@@ -14,23 +14,25 @@ namespace ProductApi.Application.DTOs.Conversions
             Price = product.Price
         };
 
-        public static (ProductDTO?, IEnumerable<ProductDTO>?) FromEntity(Product product, IEnumerable<Product>? products)
+        public static (ProductDTO?, IEnumerable<ProductDTO>?) FromEntity(Product? product, IEnumerable<Product>? products)
         {
-            // return single 
-            if (product is not null || product is null)
+            // return single product
+            if (product is not null)
             {
                 var singleProduct = new ProductDTO
-                     (
-                         product!.Id,
-                         product.Name!,
-                         product!.Quantity,
-                         product!.Price
-                     );
+                (
+                    product.Id,
+                    product.Name!,
+                    product.Quantity,
+                    product.Price
+                );
                 return (singleProduct, null);
             }
-            // return list
-            if(products is not null || product is null) {
-                var _products = products!.Select(p => new ProductDTO
+
+            // return list of products
+            if (products is not null)
+            {
+                var _products = products.Select(p => new ProductDTO
                 (
                     p.Id,
                     p.Name!,
@@ -39,6 +41,8 @@ namespace ProductApi.Application.DTOs.Conversions
                 )).ToList();
                 return (null, _products);
             }
+
+            // both are null
             return (null, null);
         }
     }

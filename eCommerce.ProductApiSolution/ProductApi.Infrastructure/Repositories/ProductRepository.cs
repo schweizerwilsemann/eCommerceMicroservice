@@ -60,7 +60,7 @@ namespace ProductApi.Infrastructure.Repositories
             try
             {
                 var product = await context.Products.FindAsync(id);
-                return product is null ? product : null!;
+                return product is not null ? product : null!;
             }
             catch (Exception ex)
             {

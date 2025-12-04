@@ -15,3 +15,4 @@ D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\Prod
 D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net10.0\ProductApi.Domain.pdb
 D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net10.0\ProductApi.Application.csproj.AssemblyReference.cache
 D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net10.0\ProductA.E443A747.Up2Date
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net10.0\ProductApi.Application.sourcelink.json

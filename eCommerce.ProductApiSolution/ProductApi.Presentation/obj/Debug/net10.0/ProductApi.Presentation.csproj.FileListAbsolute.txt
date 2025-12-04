@@ -184,3 +184,7 @@ D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\Prod
 D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Presentation\bin\Debug\net10.0\eCommerce.SharedLibrary.pdb
 D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Presentation\bin\Debug\net10.0\ProductApi.Application.pdb
 D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Presentation\bin\Debug\net10.0\ProductApi.Domain.pdb
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Presentation\obj\Debug\net10.0\ProductApi.Presentation.sourcelink.json
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Presentation\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Presentation\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Courses\Dotnet\repos\eCommerceMicroservices\eCommerce.ProductApiSolution\ProductApi.Presentation\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
